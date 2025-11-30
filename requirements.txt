@@ -1,0 +1,12 @@
+Los paquetes usados en el proyecto fueron los siguientes
+numpy
+pandas
+matplotlib
+
+Ya vienen instalados por defecto en Python de Google Colab, pero si en dado caso estas usando Pycharm u otro entorno de Python
+solo tienes que ejecutar la consola y escribir lo siguiente
+pip install pandas 
+pip install numpy
+pip install matplotlib
+
+y una vez descargadas tienes que importarlas en el proyecto
